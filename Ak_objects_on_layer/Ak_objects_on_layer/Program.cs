@@ -10,6 +10,7 @@ public class Program
     private static UFSession theUfSession;
     public static Program theProgram;
     public static bool isDisposeCalled;
+    public static bool test1;  // This is checking for merging conflict from newbranch to main
 
     //------------------------------------------------------------------------------
     // Constructor
