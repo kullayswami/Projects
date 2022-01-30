@@ -10,7 +10,7 @@ public class Program
     private static UFSession theUfSession;
     public static Program theProgram;
     public static bool isDisposeCalled;
-
+    public static bool test; // for testing merge in newbranch 
     //------------------------------------------------------------------------------
     // Constructor
     //------------------------------------------------------------------------------
