@@ -1,6 +1,8 @@
 using System;
 using NXOpen;
 using NXOpen.UF;
+
+// new branch commit
 public class NXJournal
 {
     static Session theSession = Session.GetSession();
